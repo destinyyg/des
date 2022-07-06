@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle destinyyg is linked to the Tezos account tz1TKAioiPpY8ZM52Q8iUsGKB1XNiFpX69Sm for tzprofiles
+
+sig:edsigtwGt7KAWYuc6XMsShf98RhXSu9gxiJqd2DXeFWrfRDNZLL6Q718Y8R77gN6i8hyZSEYsRdeoJ8x3q4FgdfqScxxZ4su2WK
